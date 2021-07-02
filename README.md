@@ -4,7 +4,7 @@ I'm Brazilian, I think you saw the acronyms BR, right? :earth_americas: And i :h
 
 I'm almost a junior in Python. :snake:
 
-I'm studying PHP and MYSQL, HTML CSS and JS. :blue_book:
+I'm studying the framework Django and MYSQL :blue_book:
 
 I'm also interested in the Bug Bounty's area, I'm dual boot Windows and Linux:penguin:.
 
