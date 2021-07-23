@@ -1,4 +1,4 @@
-My dream is to be a back-end professional. :smirk: :raised_hands:
+My dream is to be a front-end professional. :smirk: :raised_hands:
 
 I'm Brazilian, I think you saw the acronyms BR, right? :earth_americas: And i :heart: soccer and I cheer for Santos :white_circle: :black_circle:
 
