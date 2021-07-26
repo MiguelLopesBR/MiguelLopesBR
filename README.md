@@ -12,3 +12,4 @@ I'm also interested in the Bug Bounty's area, I'm dual boot Windows and Linux:pe
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelLopesBR&layout=compact)](https://github.com/MiguelLopesBR/github-readme-stats)
 
 
+k
