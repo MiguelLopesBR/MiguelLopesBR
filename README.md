@@ -2,9 +2,7 @@ My dream is to be a front-end professional. :smirk: :raised_hands:
 
 I'm Brazilian, I think you saw the acronyms BR, right? :earth_americas: And i :heart: soccer and I cheer for Santos :white_circle: :black_circle:
 
-I'm almost a junior in Python. :snake:
-
-I'm studying the framework Django and MYSQL :blue_book:
+I'm studying the framework HTML,CSS,JS and MYSQL :blue_book:
 
 I'm also interested in the Bug Bounty's area, I'm dual boot Windows and Linux:penguin:.
 
